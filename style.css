@@ -3,36 +3,35 @@
     padding:0;
   }
   body {
-    margin: 2%;
-    width: 90%;
+    width: 60em;
     float: left;
 }
 
 #cabecera{
     background-color: #eee;
-    padding: 2%;
+    padding: 0.01em;
     text-align: center;
   }
    
   #pie {
     background-color: #eee;
-    padding: 2%;
+    padding: 0.01em;
     clear: both;
     text-align: center;
   }
 
 #cuerpo {
-  padding: 1%;
+  padding: 0.01em;
 }
 .columna1, .columna2, .columna3{
     background-color: #eee;
-    width: 282px;
+    width: 17.625em;
     float: left;
-    margin: 2px;
+    margin: 0.125em;
     text-align: center;
 
 }
   li {
     display: inline;
-    padding: 1%;
+    padding: 0.01em;
   }
